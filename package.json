@@ -1,0 +1,19 @@
+{
+  "name": "forecastapp",
+  "version": "1.0.0",
+  "description": "This Is My Weather Forecast app that gives current weather location measure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "forecast",
+    "weatherapp"
+  ],
+  "author": "Rupesh Jha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
